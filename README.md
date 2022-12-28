@@ -39,5 +39,5 @@ The purpose of this project is to get an idea of the price of home using the loc
 * Jupyter Notebook
 
 ## Contact
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact me leads with any questions or if you are interested in contributing!
 * Linkedin `#https://www.linkedin.com/in/sandeep-kumar-3623181ba/`
